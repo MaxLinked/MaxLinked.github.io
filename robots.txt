@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MaxLinked.github.io/al-folio/sitemap.xml
+Sitemap: https://MaxLinked.github.io/sitemap.xml
