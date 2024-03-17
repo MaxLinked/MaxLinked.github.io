@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student at PolyU, Hong Kong, China.
+subtitle: Master's student at PolyU, Hong Kong, China123.
 
 profile:
   align: right
-  image: 1.jpg
+  image: Max.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Beacon Hill, Hong Kong</p>
