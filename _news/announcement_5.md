@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-##### I graduated from YSU with a BEng, recognized as an Outstanding Graduate and awarded for Outstanding Graduation Project. 🎓
+###### I graduated from YSU with a BEng, recognized as an Outstanding Graduate and awarded for Outstanding Graduation Project. 🎓
