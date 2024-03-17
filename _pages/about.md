@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student at PolyU, Hong Kong, China123.
+subtitle: Master's student at PolyU, Hong Kong, China.
 
 profile:
   align: right
